@@ -1,0 +1,168 @@
+
+1.countries
+2.states
+3.cities
+4.clear all data
+enter your choice : 2
+enter name of state no : 17>>>Tasmania
+enter country no3
+saved
+state no:17||country name:Australia||state name:Tasmania
+press enter to enter nxt state
+enter 1 to exit3
+enter name of state no : 18>>>Victoria
+enter country no3
+saved
+state no:18||country name:Australia||state name:Victoria
+press enter to enter nxt state
+enter 1 to exit3
+enter name of state no : 19>>>Burgenland
+enter country no4
+saved
+state no:19||country name:Austria||state name:Burgenland
+press enter to enter nxt state
+enter 1 to exit4
+enter name of state no : 20>>>Carinthia
+enter country no4
+saved
+state no:20||country name:Austria||state name:Carinthia
+press enter to enter nxt state
+enter 1 to exit4
+enter name of state no : 21>>>Salzburg
+enter country no4
+saved
+state no:21||country name:Austria||state name:Salzburg
+press enter to enter nxt state
+enter 1 to exit4
+enter name of state no : 22>>>Styria
+enter country no4
+saved
+state no:22||country name:Austria||state name:Styria
+press enter to enter nxt state
+enter 1 to exit4
+enter name of state no : 23>>>Vienna
+enter country no4
+saved
+state no:23||country name:Austria||state name:Vienna
+press enter to enter nxt state
+enter 1 to exit4
+enter name of state no : 24>>>Barisal
+enter country no5
+saved
+state no:24||country name:Bangladesh||state name:Barisal
+press enter to enter nxt state
+enter 1 to exit5
+enter name of state no : 25>>>Chittagong
+enter country no5
+saved
+state no:25||country name:Bangladesh||state name:Chittagong
+press enter to enter nxt state
+enter 1 to exit5
+enter name of state no : 26>>>Dhaka
+enter country no5
+saved
+state no:26||country name:Bangladesh||state name:Dhaka
+press enter to enter nxt state
+enter 1 to exit5
+enter name of state no : 27>>>Rajshahi
+enter country no5
+saved
+state no:27||country name:Bangladesh||state name:Rajshahi
+press enter to enter nxt state
+enter 1 to exit5
+enter name of state no : 28>>>Rangpur
+enter country no5
+saved
+state no:28||country name:Bangladesh||state name:Rangpur
+press enter to enter nxt state
+enter 1 to exit5
+enter name of state no : 29>>>Bumthang
+enter country no6
+saved
+state no:29||country name:Bhutan||state name:Bumthang
+press enter to enter nxt state
+enter 1 to exit6
+enter name of state no : 30>>>Chukha
+enter country no6
+saved
+state no:30||country name:Bhutan||state name:Chukha
+press enter to enter nxt state
+enter 1 to exit6
+enter name of state no : 31>>>Dagana
+enter country no6
+saved
+state no:31||country name:Bhutan||state name:Dagana
+press enter to enter nxt state
+enter 1 to exit6
+enter name of state no : 32>>>Mongar
+enter country no6
+saved
+state no:32||country name:Bhutan||state name:Mongar
+press enter to enter nxt state
+enter 1 to exit6
+enter name of state no : 33>>>Anhui
+enter country no7
+saved
+state no:33||country name:China||state name:Anhui
+press enter to enter nxt state
+enter 1 to exit7
+enter name of state no : 34>>>Beijing
+enter country no7
+saved
+state no:34||country name:China||state name:Beijing
+press enter to enter nxt state
+enter 1 to exit7
+enter name of state no : 35>>>Fujian
+enter country no7
+saved
+state no:35||country name:China||state name:Fujian
+press enter to enter nxt state
+enter 1 to exit7
+enter name of state no : 36>>>Henan
+enter country no7
+saved
+state no:36||country name:China||state name:Henan
+press enter to enter nxt state
+enter 1 to exit7
+enter name of state no : 37>>>Hebei
+enter country no7
+saved
+state no:37||country name:China||state name:Hebei
+press enter to enter nxt state
+enter 1 to exit7
+enter name of state no : 38>>>Ontario
+enter country no8
+saved
+state no:38||country name:Canada||state name:Ontario
+press enter to enter nxt state
+enter 1 to exit8
+enter name of state no : 39>>>Quebec
+enter country no8
+saved
+state no:39||country name:Canada||state name:Quebec
+press enter to enter nxt state
+enter 1 to exit8
+enter name of state no : 40>>>Alberta
+enter country no8
+saved
+state no:40||country name:Canada||state name:Alberta
+press enter to enter nxt state
+enter 1 to exit8
+enter name of state no : 41>>>Manitoba
+enter country no8
+saved
+state no:41||country name:Canada||state name:Manitoba
+press enter to enter nxt state
+enter 1 to exit8
+enter name of state no : 42>>>Alberta
+enter country no8
+saved
+state no:42||country name:Canada||state name:Alberta
+press enter to enter nxt state
+enter 1 to exit8
+enter name of state no : 43>>>Hovedstaden
+enter country no9
+saved
+state no:43||country name:Denmark||state name:Hovedstaden
+press enter to enter nxt state
+enter 1 to exit1
